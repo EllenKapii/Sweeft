@@ -17,3 +17,4 @@ func countVariants(stearsCount: Int) -> Int {
 
 countVariants(stearsCount: 8)
 
+

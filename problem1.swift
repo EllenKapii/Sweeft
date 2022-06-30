@@ -14,3 +14,4 @@ func isPalindrome(text: String) -> Bool {
 }
 
 print(isPalindrome(text: "Abccba"))
+

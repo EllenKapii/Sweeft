@@ -19,3 +19,4 @@ func isProperly(sequance: String) -> Bool {
 }
 
 print(isProperly(sequance: "(())()"))
+

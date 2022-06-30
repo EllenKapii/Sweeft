@@ -41,3 +41,4 @@ func notContains(arr: [Int]) -> Int {
 }
 
 print(notContains(arr: [1, 4, 6, 2, 4]))
+
